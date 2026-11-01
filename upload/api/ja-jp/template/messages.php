@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'task_list' => 'タスク テンプレート 一覧',
+  'task_created' => 'タスク テンプレート 作成済み',
+  'task_detail' => 'タスク テンプレート',
+  'task_updated' => 'タスク テンプレート 更新済み',
+  'task_deleted' => 'タスク テンプレート 削除済み',
+  'project_list' => 'プロジェクト テンプレート 一覧',
+  'project_created' => 'プロジェクト テンプレート 作成済み',
+  'project_detail' => 'プロジェクト テンプレート',
+  'project_updated' => 'プロジェクト テンプレート 更新済み',
+  'project_deleted' => 'プロジェクト テンプレート 削除済み',
+  'max_255' => '最大 255 characters',
+  'payload_object' => 'payload フィールド must be an object',
+  'not_found' => 'テンプレート ない 見つかりました',
+  'empty_tasks' => 'No タスク テンプレート',
+  'empty_projects' => 'No プロジェクト テンプレート',
+  'load_error_tasks' => '失敗 へ load タスク テンプレート',
+  'load_error_projects' => '失敗 へ load プロジェクト テンプレート',
+  'btn_delete' => '削除',
+  'created_task_notify' => 'タスク テンプレート 作成済み',
+  'created_project_notify' => 'プロジェクト テンプレート 作成済み',
+  'error_create' => '作成 エラー',
+  'confirm_delete_task' => '削除 タスク テンプレート?',
+  'confirm_delete_project' => '削除 プロジェクト テンプレート?',
+  'deleted_task_notify' => 'タスク テンプレート 削除済み',
+  'deleted_project_notify' => 'プロジェクト テンプレート 削除済み',
+  'error_delete' => '削除 エラー',
+  'task_applied' => 'タスク 作成済み から テンプレート',
+  'project_applied' => 'プロジェクト 作成済み から テンプレート',
+);

@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'list' => 'Dependency 一覧',
+  'created' => 'Dependency 作成済み',
+  'deleted' => 'Dependency 削除済み',
+  'not_found' => 'Dependency ない 見つかりました',
+  'task_not_found' => 'One の タスク was ない 見つかりました',
+  'invalid_type' => '無効 dependency type',
+  'supported_types' => 'Supported: FS, SS, FF, SF, BLOCKS',
+  'self_forbidden' => 'タスク できません depend 上 itself',
+  'different_projects' => 'Dependencies can のみ be 作成済み between タスク で same プロジェクト',
+  'empty' => 'No dependencies',
+  'th_type' => '種類',
+  'th_task' => 'タスク',
+  'btn_delete' => '削除',
+  'load_error' => '失敗 へ load dependencies',
+  'prompt_task_id' => 'タスク ID (public_id)',
+  'task_id_empty' => 'タスク ID できません be 空',
+  'prompt_dep_type' => 'Dependency type (FS, SS, FF, SF)',
+  'created_notify' => 'Dependency added',
+  'confirm_delete' => '削除 dependency?',
+  'deleted_notify' => 'Dependency 削除済み',
+  'type_fs' => 'Finish-Start',
+  'type_ss' => 'Start-Start',
+  'type_ff' => 'Finish-Finish',
+  'type_sf' => 'Start-Finish',
+  'type_blocks' => 'Blocks',
+  'cyclic_dependency' => 'Dependency would 作成 a cycle between タスク',
+);

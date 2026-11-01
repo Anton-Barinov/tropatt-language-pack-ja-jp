@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'loading' => '読み込み中…',
+  'load_error' => '読み込み中 エラー',
+  'empty' => 'No 保存済み views',
+  'pinned' => 'Pinned',
+  'other' => 'Others',
+  'system' => 'System',
+  'public' => 'Public',
+  'private' => 'Private',
+  'pin' => 'Pin',
+  'unpin' => 'Unpin',
+  'duplicate' => 'Duplicate',
+  'edit' => '編集',
+  'archive' => 'アーカイブ',
+  'applied' => 'View applied:',
+  'apply_error' => 'エラー applying view',
+  'save_as' => '保存 as 新規 view',
+  'edit_title' => '編集 view',
+  'title_required' => '入力 a view 名前',
+  'update_error' => 'エラー updating view',
+  'create_error' => 'エラー creating view',
+  'pinned_msg' => 'Pinned',
+  'unpinned_msg' => 'Unpinned',
+  'pin_error' => 'エラー',
+  'duplicated' => 'View duplicated',
+  'duplicate_error' => 'エラー duplicating',
+  'confirm_archive' => 'アーカイブ この view?',
+  'archived' => 'View アーカイブ済み',
+  'archive_error' => 'エラー archiving',
+);

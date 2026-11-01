@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'dashboard' => 'ダッシュボード',
+  'ideas' => 'アイデア',
+  'tasks' => 'タスク',
+  'day' => 'My day',
+  'week' => 'My 週',
+  'kanban' => 'カンバン',
+  'gantt' => 'ガント',
+  'projects' => 'プロジェクト',
+  'calendar' => 'カレンダー',
+  'counterparties' => '取引先',
+  'teams' => 'チーム',
+  'knowledge' => 'ナレッジベース',
+  'analytics' => '分析',
+  'notifications' => '通知',
+  'admin' => '管理',
+  'intake' => '受信箱',
+  'cycles' => 'サイクル（スプリント）',
+  'project_modules' => 'プロジェクトモジュール',
+  'admin_estimates' => 'タスク見積もり',
+  'admin_modules' => 'モジュール',
+  'chat' => 'チャット',
+  'docs' => 'ドキュメント',
+  'api' => 'ドキュメント',
+  'my_earnings' => 'My earnings',
+  'rate_cards' => 'Rate cards',
+  'menu_loaded' => 'Menu loaded',
+);

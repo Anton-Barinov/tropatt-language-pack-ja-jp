@@ -1,0 +1,32 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'widgets' => 'ダッシュボード widgets',
+  'widgets_saved' => 'ダッシュボード widgets 更新済み',
+  'widgets_required' => 'Widgets 一覧 です 必須',
+  'summary' => 'ダッシュボード summary',
+  'sticky_notes_title' => 'Sticky Notes',
+  'sticky_notes_loading' => '読み込み中 notes...',
+  'sticky_notes_error' => '失敗 へ load notes',
+  'sticky_notes_empty' => 'No notes yet',
+  'sticky_notes_add' => '+ Add note',
+  'sticky_notes_pin' => 'Pin',
+  'sticky_notes_unpin' => 'Unpin',
+  'sticky_notes_archive' => 'アーカイブ',
+  'sticky_notes_archive_confirm' => 'アーカイブ note?',
+  'sticky_notes_content_required' => '入力 note テキスト',
+  'sticky_notes_saved' => 'Note 更新済み',
+  'sticky_notes_save_error' => '保存 エラー',
+  'sticky_notes_update_error' => '更新 エラー',
+  'sticky_notes_archived' => 'Note アーカイブ済み',
+  'sticky_notes_archive_error' => 'アーカイブ エラー',
+  'sticky_notes_create_title' => '新規 note',
+  'sticky_notes_content_label' => 'Note テキスト',
+  'sticky_notes_placeholder' => 'Write a note...',
+  'sticky_notes_color_label' => 'Colour',
+  'sticky_notes_created' => 'Note 作成済み',
+  'sticky_notes_create_error' => 'Creation エラー',
+  'insights' => 'ダッシュボード widget metrics',
+  'insights_unknown_widget' => '不明 ダッシュボード widget',
+);
